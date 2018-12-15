@@ -1,2 +1,2 @@
 # nodeauth-Github
-nodejs 
+nodejs using passport for authentication for backend office for project managers 
